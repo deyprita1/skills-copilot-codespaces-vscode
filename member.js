@@ -7,6 +7,7 @@ function skillsMember() {
             { name: "Node.js", level: "Advanced" },
             { name: "HTML", level: "Intermediate" },
             { name: "CSS", level: "Intermediate" },
+            {name:"GIT",level:"Intermediate"}
         ]
     };
 }
